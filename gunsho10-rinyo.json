@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/rinyo",
  "yomi": "りんようわかしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（自撰）",
+  "era": "平安末期",
+  "author": "俊恵（自撰）",
+  "desc": "源俊頼の子で歌林苑を主宰した俊恵の自撰家集。四季・恋・雑などの部立てで多くの歌を収める。奥に将軍家の御本から写したとある。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -10431,6 +10436,6 @@
   "poems": 926,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
